@@ -1,24 +1,8 @@
 <h1 align="center">Olá, eu sou Danilo Aldrin 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor em evolução constante</b><br>
-  Transformando ideias em soluções, uma linha de código por vez.
-</p>
-
-<p align="center">
-  <a href="https://github.com/DaniloAldrin">
-    <img src="https://img.shields.io/github/followers/DaniloAldrin?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/DaniloAldrin?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-View%20Repos-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:dac.rocha@live.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+  <b>Transformando ideias em soluções</b><br>
+  
 
 ---
 
