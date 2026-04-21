@@ -1,21 +1,11 @@
 <h1 align="center">Olá, eu sou Danilo Aldrin 👋</h1>
 
-<p align="center">
-  <b>Transformando ideias em soluções</b><br>
-  
-
 ---
 
-## 🚀 Sobre mim
+## 🤝 Transformando ideias em soluções
 
-Sou o **Danilo Aldrin**, apaixonado por tecnologia, aprendizado contínuo e construção de soluções que geram impacto real.  
+Sou o **Danilo Aldrin**, apaixonado por tecnologia e construção de soluções que geram impacto real.  
 Gosto de explorar novas ferramentas, melhorar processos e transformar problemas complexos em entregas simples e bem feitas.
-
-- 🔭 Atualmente trabalhando em projetos pessoais e evolução profissional
-- 🌱 Estudando desenvolvimento, automação e boas práticas de software
-- 💡 Interesse em tecnologia, produtividade, dados e soluções úteis
-- 🤝 Aberto a colaboração em projetos interessantes
-- 🎯 Foco em crescer todos os dias como dev e como pessoa
 
 ---
 
