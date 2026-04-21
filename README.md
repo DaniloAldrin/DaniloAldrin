@@ -3,8 +3,8 @@
 
 ## 🤝 Transformo ideias em soluções
 
-Sou o **Danilo Aldrin**, apaixonado por tecnologia e construção de soluções que geram impacto real.  
-Gosto de explorar novas ferramentas, melhorar processos e transformar problemas complexos em entregas simples e bem feitas.
+Sou apaixonado por tecnologia e construção de soluções que geram impacto real. Gosto de explorar novas ferramentas, melhorar processos e transformar problemas complexos em entregas simples e bem feitas.
+
 
 
 
