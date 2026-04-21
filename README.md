@@ -3,9 +3,9 @@
 
 ## 🤝 Transformo ideias em soluções
 
-Sou apaixonado por tecnologia e construção de soluções que geram impacto real. Gosto de explorar novas ferramentas, melhorar processos e transformar problemas complexos em entregas simples e bem feitas.
-
-
+Um apaixonado por construir soluções que geram impacto real na vida das pessoas. 
+Gosto de explorar novas ferramentas, melhorar processos e transformar problemas complexos em entregas simples e bem feitas.
+Facilidade, Eficiência e Confiabilidade são os destaques das entregas.
 
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -35,7 +35,7 @@ Sou apaixonado por tecnologia e construção de soluções que geram impacto rea
 <p align="center">
   <a href="mailto:dac.rocha@live.com">Email</a> •
   <a href="https://github.com/DaniloAldrin">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/daniloaldrin/">LinkedIn</a>
 </p>
 
 ---
