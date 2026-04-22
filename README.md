@@ -3,7 +3,7 @@
 
 ## 🤝 Transformo ideias em soluções
 
-Um apaixonado por construir soluções que geram impacto real na vida das pessoas. 
+Um apaixonado por construir soluções que geram impacto real na vida das pessoas.
 Gosto de explorar novas ferramentas, melhorar processos e transformar problemas complexos em entregas simples e bem feitas.
 Facilidade, Eficiência e Confiabilidade são os destaques das entregas.
 
@@ -38,14 +38,3 @@ Facilidade, Eficiência e Confiabilidade são os destaques das entregas.
   <a href="https://www.linkedin.com/in/daniloaldrin/">LinkedIn</a>
 </p>
 
----
-
-## ✨ Frase que me representa
-
-> “Consistência vence talento quando talento não é consistente.”
-
----
-
-<p align="center">
-  Feito com dedicação por <b>Danilo Aldrin</b>
-</p>
